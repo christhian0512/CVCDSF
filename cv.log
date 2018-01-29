@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6500 64-bit) (preloaded format=xelatex 2018.1.27)  27 JAN 2018 16:23
+This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6500 64-bit) (preloaded format=xelatex 2018.1.27)  28 JAN 2018 21:44
 entering extended mode
 **./cv.tex
 (cv.tex
@@ -1079,8 +1079,7 @@ tly
 )
 LaTeX Info: Redefining \FA on input line 164.
 \g__fontspec_family_Roboto_int=\count294
-)
-No file cv.aux.
+) (cv.aux)
 \openout1 = `cv.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
@@ -1105,7 +1104,7 @@ LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 76.
 LaTeX Font Info:    ... okay on input line 76.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
 (Font)              scaled to size 10.95pt on input line 76.
-ABD: EverySelectfont initializing macros
+ ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 76.
 
 *geometry* detected driver: pdftex
@@ -1199,12 +1198,10 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 76.
 LaTeX Info: Redefining \pageref on input line 76.
 LaTeX Info: Redefining \nameref on input line 76.
+
+(cv.out) (cv.out)
 \@outlinefile=\write6
 \openout6 = `cv.out'.
-
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
 
 \headertextwidth=\skip79
 \headerphotowidth=\skip80
@@ -1223,13 +1220,10 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 7.6pt on input line 81.
 
+
 LaTeX Font Warning: Font shape `TU/SourceSansPro(1)/m/sc' undefined
 (Font)              using `TU/SourceSansPro(1)/m/n' instead on input line 81.
 
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 81.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 81.
 
 Overfull \hbox (1.47461pt too wide) in paragraph at lines 81--81
 []$[]$ $[]$$[]$ 
@@ -1276,6 +1270,8 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 12.0pt on input line 10.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
 (Font)              scaled to size 12.0pt on input line 10.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
+(Font)              scaled to size 9.0pt on input line 23.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/bx/n' will be
 (Font)              scaled to size 9.0pt on input line 23.
 )
@@ -1294,11 +1290,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 37894 strings out of 427839
- 736953 string characters out of 3152538
- 956317 words of memory out of 3000000
- 41401 multiletter control sequences out of 15000+200000
- 532738 words of font info for 84 fonts, out of 3000000 for 9000
+ 37898 strings out of 427839
+ 736881 string characters out of 3152538
+ 956316 words of memory out of 3000000
+ 41400 multiletter control sequences out of 15000+200000
+ 532730 words of font info for 83 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  72i,12n,89p,10423b,428s stack positions out of 5000i,500n,10000p,200000b,50000s
 
